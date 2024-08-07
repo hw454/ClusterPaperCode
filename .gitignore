@@ -8,3 +8,6 @@
 *ours_clusters*
 *eff_dfs*
 *AICclusters*
+*.Rproj*
+*RData
+*Rhistory
